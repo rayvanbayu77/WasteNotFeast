@@ -1,16 +1,10 @@
-# wastenotfeast_proto
+<h2>SenjaCyphers</h2>
+<h4>About Us</h4>
+-  &nbsp; Rayvan Bayu Abhinowo (Leader / Hacker)<br>
+-  &nbsp; Syafik Barda (Hipster)<br>
+-  &nbsp; Darren Nathanael Melakha (Hustler)<br>
+-  &nbsp; Howard Amadeus Tjong (Hustler)<br>
+<br><br><br>
+<h4>Our App Preview :</h4>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-01-12 204942](https://github.com/rayvanbayu77/WasteNotFeast/assets/102936954/90822a7d-5285-4fa9-875d-1174533fb0e9)
