@@ -7,4 +7,4 @@
 <br><br><br>
 <h4>Our App Preview :</h4>
 
-![Screenshot 2024-01-12 204942](https://github.com/rayvanbayu77/WasteNotFeast/assets/102936954/90822a7d-5285-4fa9-875d-1174533fb0e9)
+![Screenshot 2024-01-12 204942](https://github.com/rayvanbayu77/wastenotfeast/assets/102936954/03b1813a-0ba5-4d66-b9d5-dd6fcefbfce7)
